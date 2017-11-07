@@ -12,6 +12,6 @@ public class App
     }
     public String getGreetings()
     {
-        return"Welcome to maven!";
+        return null;
     }
 }
