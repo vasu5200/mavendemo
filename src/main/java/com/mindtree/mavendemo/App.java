@@ -1,5 +1,4 @@
 package com.mindtree.mavendemo;
-import java.io*;
 
 /**
  * Hello world!
