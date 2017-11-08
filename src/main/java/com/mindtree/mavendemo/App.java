@@ -13,7 +13,7 @@ public class App
     }
     public String getGreetings()
     {
-    	in value=75;
+    	int value=75;
         return "welcome to possible";
     }
 }
