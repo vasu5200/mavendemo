@@ -15,4 +15,8 @@ public class App
     	int value=75;
         return "welcome to possible";
     }
+    public int add(int x, int y)
+    {
+    	return x + y;
+    }
 }
