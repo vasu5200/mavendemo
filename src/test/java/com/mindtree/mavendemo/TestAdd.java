@@ -8,7 +8,7 @@ public class TestAdd {
 	@Test
 	public void test() {
 		App obj = new App();
-		assertEquals(10, obj.add(5, 5));
+		assertEquals(12, obj.add(7, 5));
 	}
 
 }
